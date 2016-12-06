@@ -1,0 +1,276 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PROYECTO FIN DE CURSO
+</name>
+</assembly>
+<members>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.AdministradoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.CursosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.EntregasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.FamiliasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.ProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.ProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TallasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TiposFamiliasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TrabajadoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.VentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.AdministradoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.CursosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.EntregasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.FamiliasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.ProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.ProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TallasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TiposFamiliasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TrabajadoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.VentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.AdministradoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.CursosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.EntregasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.FamiliasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.ProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.ProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TallasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TiposFamiliasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.TrabajadoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet.VentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.AdministradoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.CursosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.EntregasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.FamiliasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.ProductosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.ProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TallasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TiposFamiliasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TrabajadoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.VentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.UpdateAll(PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.CUASHOP_MODADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:PROYECTO_FIN_DE_CURSO.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PROYECTO_FIN_DE_CURSO.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PROYECTO_FIN_DE_CURSO.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PROYECTO_FIN_DE_CURSO.My.Resources.Resources.volver">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
